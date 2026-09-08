@@ -8,6 +8,6 @@ I'm learning through small projects and questions that turn into experiments. I 
 
 Research methods, practical resources and experiments worth keeping. For each project, I want to explain what prompted it, how I approached it and what I learned, including what hasn't been tested.
 
-The first collection is in preparation. It starts with a community-research method for distinguishing what builders are making from evidence of what buyers need.
+Explore [Research & Experiments](https://github.com/MarkAnthonyGee/research-and-experiments), starting with Community Problem Radar: a guide, template and fictional example for distinguishing what builders are making from evidence of what buyers need.
 
 [More of my thinking on X](https://x.com/MarkAnthonygee)
