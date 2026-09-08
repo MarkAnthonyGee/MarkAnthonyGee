@@ -6,8 +6,8 @@ I'm learning through small projects and questions that turn into experiments. I 
 
 ## What I'm collecting here
 
-Research methods, practical resources and experiments worth keeping. For each project, I want to explain what prompted it, how I approached it and what I learned, including what hasn't been tested.
+Reusable AI skills, research notes and experiments worth keeping. For each project, I want to explain what prompted it, how I approached it and what I learned, including what hasn't been tested.
 
-Explore [Research & Experiments](https://github.com/MarkAnthonyGee/research-and-experiments), starting with Community Problem Radar: a guide, template and fictional example for distinguishing what builders are making from evidence of what buyers need.
+Explore [Research & Experiments](https://github.com/MarkAnthonyGee/research-and-experiments), starting with Community Problem Radar: a reusable Markdown skill you can give to an AI assistant to review community discussions. It includes the instructions, supporting references and a practice case so you can use or adapt the workflow.
 
 [More of my thinking on X](https://x.com/MarkAnthonygee)
